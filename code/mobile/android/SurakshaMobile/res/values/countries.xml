@@ -1,0 +1,16 @@
+<resources>
+
+<string name="option_select">Select Country</string>
+<string-array name="object_array">
+<item>India (+91)</item>
+<item>USA (+1)</item>
+<item>Srilanka (+94)</item>
+
+</string-array>
+<integer-array name="object_image">
+<item>@drawable/govt</item>
+<item>@drawable/usa</item>
+<item>@drawable/srilanka</item>
+
+</integer-array>
+</resources>

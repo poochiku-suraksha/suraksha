@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color android:id="@+id/color1" name="list_background" android:layout_width="wrap_content" android:layout_height="wrap_content">#ffca7c</color>
+    <color android:id="@+id/color2" name="list_selector" android:layout_width="wrap_content" android:layout_height="wrap_content">#ffffff</color>
+    <color android:id="@+id/color3" name="list_divider" android:layout_width="wrap_content" android:layout_height="wrap_content">#ffffff</color>
+    <color android:id="@+id/color4" name="list_background_pressed" android:layout_width="wrap_content" android:layout_height="wrap_content">#159ceb</color>
+    <color android:id="@+id/color5" name="counter_text_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">#159ceb</color>
+    <color android:id="@+id/color6" name="list_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content">#fffedf</color>
+    <color android:id="@+id/color7" name="counter_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content">#fffedf</color>
+    <color name="my_spinner_text_color">#808080</color>
+
+</resources>

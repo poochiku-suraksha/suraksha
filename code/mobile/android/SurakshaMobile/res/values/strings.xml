@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suraksha</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="copyrights">Powered by poochiku.com \u00a9 2015-16</string>
+    <string name="title_activity_incident">IncidentActivity</string>
+
+</resources>
